@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   name=""
+   url="http://www.zndev.com/svn/pocketime/_GB/PocketIME_Data/Debug/ObjectCode"
+   kind="dir"
+   repos="http://www.zndev.com/svn/pocketime"
+   schedule="add"
+   revision="0"/>
+<entry
+   name="PocketIME_Rsc.rcp.ro"
+   kind="file"
+   schedule="add"/>
+</wc-entries>
